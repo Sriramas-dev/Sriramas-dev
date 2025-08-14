@@ -1,7 +1,16 @@
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Sriram A S</h1>
+  ![](https://komarev.com/ghpvc/?username=Kaif89&style=for-the-badge)
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" align="center" height="200" style="width: 80%" />
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+</div>  
+
+### <div align="center">I'm Sriram, A full-stack (MERN) & AI automation enthusiast, building intelligent apps with FastAPI, n8n, and OpenAI. Working on innovative projects and contributing to the developer community since starting my journey. 🚀</div> 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" align="right" style="width: 50%" />
+
+<br/> 
 
 - 📫 How to reach me **itsriramas@gmail.com**
 
