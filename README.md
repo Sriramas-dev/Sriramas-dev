@@ -1,8 +1,23 @@
- <h1 align="center">
-  Hi 👋, It's Sriram 
-</br> 
-  <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2"/>
+<!-- Title -->
+<h1 align="center">
+  Hi 👋, I'm Sriram
 </h1>
+
+<!-- Subtext -->
+<p align="center">
+  🚀 Designer • Developer • Problem Solver
+</p>
+
+<!-- Decorative Image -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2" 
+       alt="Profile Banner" 
+       width="600" 
+       style="border-radius: 15px; box-shadow: 0px 4px 12px rgba(0,0,0,0.2);"/>
+</p>
+
+<!-- Horizontal line -->
+<hr/>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
