@@ -1,10 +1,13 @@
 <h1 align="center">
-  Hi 👋, it's
-  <div style="display:inline-block; text-align:center;">
-    Sriram<br>
-    <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2" alt="Underline">
-  </div>
+  Hi 👋, it's 
+  <span style="display:inline-block; position:relative;">
+    Sriram
+    <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2" 
+         alt="Underline" 
+         style="position:absolute; left:0; bottom:-8px; width:100px;">
+  </span>
 </h1>
+
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
