@@ -1,12 +1,13 @@
 <h1 align="center">
   Hi 👋, it's 
   <span style="display:inline-block; position:relative;">
-    Sriram
-    <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2" 
-         alt="Underline" 
-         style="position:absolute; left:0; bottom:-8px; width:100px;">
+    <span style="position:relative; z-index:1;">Sriram</span>
+    <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2"
+         alt="Underline"
+         style="position:absolute; left:0; bottom:-5px; width:100%; z-index:0;">
   </span>
 </h1>
+
 
 
 
