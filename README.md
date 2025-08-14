@@ -5,7 +5,7 @@
 
 </div>  
 
-<h1 align="center"> I'm Sriram</h1>
+<h1 align="center">Hey<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Sriram A S</h1>
 
 
 <p align="center">
