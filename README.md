@@ -27,5 +27,9 @@ As a developer, I combine attention to detail with a passion for creating impact
 - <img src="https://github.com/Sriramas-dev/Sriramas-dev/blob/a2e8755743f65c1cd723d7d5c4a5d027ef04db32/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Open to discussions, collaborations, and problem-solving;
 - <img src="https://github.com/Sriramas-dev/Sriramas-dev/blob/a2e8755743f65c1cd723d7d5c4a5d027ef04db32/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me:itsriramas@gmail.com;
 
+ | LinkedIn | Discord | Instagram | Twitter | GitHub |
+| --- | --- | --- | --- | --- |
+| [![Sriram A S](https://bentos.jkominovic.dev/api/v1/bento-cards?url=www.linkedin.com%2Fin%2Fsriramas7&subtitle=Sriram+A+S&size=square)](www.linkedin.com/in/sriramas7)](https://www.linkedin.com/in/kenan-gain-33048518a/) | [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square)](https://facebook.com/kenan.gain) |
+
 
 
