@@ -1,14 +1,9 @@
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 <h1 align="center">
-  Hi 👋, it's <br>
-  <span style="position: relative; display: inline-block;">
-    Sriram <br>
-    <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2"
-         alt="underline"
-         width="100"
-         style="position: absolute; bottom: -5px; left: 0;">
-  </span>
+  It's Sriram
+</br> 
+  <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2"/>
 </h1>
-
 
 
 
