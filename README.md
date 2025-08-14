@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;AI+Engineer;AI-automation+enthusiast;" alt="Typing SVG" />
 </p>
-### Glad to see you here! &nbsp;
+# Glad to see you here! &nbsp;
 
 I am a full-stack developer (MERN) and AI automation enthusiast. I love building intelligent systems, exploring new tech, learning continuously, and traveling.
 
