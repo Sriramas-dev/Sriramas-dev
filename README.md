@@ -1,9 +1,8 @@
-<h1 >Hello <a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Sriram</h1>
-<div align="center">
   
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" align="center" height="280" style="width: 90%" />
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" align="center" height="300" style="width: 100%" />
 
-
+<h1 > I'm Sriram</h1>
+<div align="center">
 </div>  
 
 ### <div align="center">A MERN & AI automation enthusiast, crafting intelligent workflows with FastAPI, n8n, and OpenAI. 🚀</div> 
