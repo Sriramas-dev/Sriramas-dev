@@ -12,6 +12,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;AI+Engineer;AI-automation+enthusiast;" alt="Typing SVG" />
 
 </p>
+ <div align="center">A MERN & AI automation enthusiast, crafting intelligent workflows with FastAPI, n8n, and OpenAI. 🚀</div>
 
 <div align="center">
 <div align="center">
