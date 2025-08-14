@@ -4,15 +4,11 @@
 <div align="center">
 </div>  
 
-### <div align="center">A MERN & AI automation enthusiast, crafting intelligent workflows with FastAPI, n8n, and OpenAI. 🚀</div> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;AI+Engineer;AI-automation+enthusiast;" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" align="right" style="width: 50%" />
-
-<br/> 
-
-- 📫 How to reach me **itsriramas@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
 <p align="left">
 <a href="https://instagram.com/hey-sriram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hey-sriram" height="30" width="40" /></a>
 </p>
