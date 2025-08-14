@@ -1,10 +1,9 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 <h1 align="center">
   It's Sriram
-</br> 
-  <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2"/>
+  <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2"
+       width="100"
+       style="margin-left: -105px; vertical-align: middle;" />
 </h1>
-
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
