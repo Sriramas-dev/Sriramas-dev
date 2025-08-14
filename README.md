@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sriram A S</h1>
+ <h1 align="center">
+  Hi 👋, It's Sriram 
+</br> 
+  <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2"/>
+</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **itsriramas@gmail.com**
