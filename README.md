@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;AI+Engineer;AI-automation+enthusiast;" alt="Typing SVG" />
 </p>
-### Glad to see you here!
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 I am a full-stack developer (MERN) and AI automation enthusiast. I love building intelligent systems, exploring new tech, learning continuously, and traveling.
 
 As a developer, I combine attention to detail with a passion for creating impactful solutions — building products that solve real problems and add value to people’s lives.
