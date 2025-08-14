@@ -16,8 +16,14 @@
 I am a full-stack developer (MERN) and AI automation enthusiast. I love building intelligent systems, exploring new tech, learning continuously, and traveling.
 
 As a developer, I combine attention to detail with a passion for creating impactful solutions — building products that solve real problems and add value to people’s lives.
-<img align="right" alt="GIF" src="https://github.com/Sriramas-dev/Sriramas-dev/blob/9ea52dc28803387e4f353c1258a16ce5c3ed9656/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Sriramas-dev/Sriramas-dev/blob/9ea52dc28803387e4f353c1258a16ce5c3ed9656/assets/coding.gif?raw=true" width="300" height="234" />
 
 **Talking about Personal Stuffs:**
+
+- <img src="https://github.com/Sriramas-dev/Sriramas-dev/blob/a2e8755743f65c1cd723d7d5c4a5d027ef04db32/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img src="https://github.com/Sriramas-dev/Sriramas-dev/blob/a2e8755743f65c1cd723d7d5c4a5d027ef04db32/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [LeetCode](https://leetcode.com/u/sriramas-dev/);
+- <img src="https://github.com/Sriramas-dev/Sriramas-dev/blob/a2e8755743f65c1cd723d7d5c4a5d027ef04db32/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Open to discussions, collaborations, and problem-solving;
+- <img src="https://github.com/Sriramas-dev/Sriramas-dev/blob/a2e8755743f65c1cd723d7d5c4a5d027ef04db32/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me:itsriramas@gmail.com;
+
 
 
