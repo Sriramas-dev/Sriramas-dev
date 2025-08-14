@@ -1,4 +1,9 @@
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" align="center" height="350" style="width: 100%" />
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" align="center" height="200" style="width: 100%" />
+
+
+</div>  
 
 <h1 align="center"> I'm Sriram</h1>
 
