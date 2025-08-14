@@ -26,6 +26,9 @@ As a developer, I combine attention to detail with a passion for creating impact
 - <img src="https://github.com/Sriramas-dev/Sriramas-dev/blob/a2e8755743f65c1cd723d7d5c4a5d027ef04db32/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp;Exploring integrations with FastAPI, n8n, and OpenAI;
 - <img src="https://github.com/Sriramas-dev/Sriramas-dev/blob/a2e8755743f65c1cd723d7d5c4a5d027ef04db32/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Open to discussions, collaborations, and problem-solving;
 - <img src="https://github.com/Sriramas-dev/Sriramas-dev/blob/a2e8755743f65c1cd723d7d5c4a5d027ef04db32/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me:itsriramas@gmail.com;
+</br>
+</br>
+</br>
 
 <div align="center">
 <div align="center">
