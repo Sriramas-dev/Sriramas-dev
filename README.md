@@ -1,10 +1,12 @@
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" align="center" height="300" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" align="center" height="350" style="width: 100%" />
 
-<h1 > I'm Sriram</h1>
-<div align="center">
-</div>  
+<h1 align="center"> I'm Sriram</h1>
 
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;AI+Engineer;AI-automation+enthusiast;" alt="Typing SVG" />
+
+</p>
 
 <div align="center">
 <div align="center">
