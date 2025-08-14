@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" align="center" height="320" style="width: 100%" />
 
 
-</div>  
+
 
 <h1 align="center">Hey<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Sriram A S</h1>
 
@@ -13,6 +13,7 @@
 
 </p>
  <div align="center">A MERN & AI automation enthusiast, crafting intelligent workflows with FastAPI, n8n, and OpenAI. 🚀</div>
+</div>  
 
 <div align="center">
 <div align="center">
