@@ -1,9 +1,4 @@
-<h1 align="center">
-  It's Sriram
-  <img src="https://github.com/user-attachments/assets/7c73240f-b0bc-40b7-beeb-8a348fe6e6d2"
-       width="100"
-       style="margin-left: -105px; vertical-align: middle;" />
-</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Sriram A S</h1>
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
