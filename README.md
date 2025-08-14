@@ -27,6 +27,10 @@ As a developer, I combine attention to detail with a passion for creating impact
 - <img src="https://github.com/Sriramas-dev/Sriramas-dev/blob/a2e8755743f65c1cd723d7d5c4a5d027ef04db32/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Open to discussions, collaborations, and problem-solving;
 - <img src="https://github.com/Sriramas-dev/Sriramas-dev/blob/a2e8755743f65c1cd723d7d5c4a5d027ef04db32/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me:itsriramas@gmail.com;
 
+<div align="center">
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+
  | LinkedIn | Discord | Instagram | Twitter | GitHub |
 | --- | --- | --- | --- | --- |
 | [![Sriram A S](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsriramas7%2F&subtitle=Sriram+A+S&size=square)](https://www.linkedin.com/in/sriramas7/) | [![Sriram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=http%3A%2F%2Fdiscord.com%2Fusers%2F973933511125905438&subtitle=Sriram&size=square)](http://discord.com/users/973933511125905438) | [![hey_sriram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fhey_sriram%3Figsh%3DOHNmY2JyMGdtNjV5&subtitle=hey_sriram&size=square)](https://www.instagram.com/hey_sriram?igsh=OHNmY2JyMGdtNjV5) | [![Sriram A S](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FRamaluuu%3Ft%3D1lH9yO1XrT38UMpXf-_iAg%26s%3D09&subtitle=Sriram+A+S&size=square)](https://x.com/Ramaluuu?t=1lH9yO1XrT38UMpXf-_iAg&s=09) | [![Sriram A S](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FSriramas-dev&subtitle=Sriram+A+S&size=square)](https://github.com/Sriramas-dev) |
